@@ -1,0 +1,215 @@
+{
+  "settings": {
+    "name": "RP music",
+    "currentPage": "rpmusic.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/rp-music-128x128.png",
+    "noImageResize": "true",
+    "versionFirst": "4.7.2",
+    "uniqCompNum": 16,
+    "versionPublish": "4.7.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "rpmusic.html": {
+      "settings": {
+        "main": true,
+        "title": "RP music",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rp%20music%20log%C3%B3%20asd-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-a\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-5",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/apa-960x640.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Rólam",
+          "caption": "<p>Rigó Péter vagyok. Több mint 20 éve muzsikálok főként a Dél-Alföldön, különböző rendezvényeken: partyk, bálak, lakodalmak, falunapok, vacsoraestek, fesztiválok, stb... alkalmával, de megfordultam már az ország számos távolabbi vidékén, és több ízben küldöldön is. A civil életben pedagógusként dolgozom 25 éve, magyar-ének-zene szakos tanárként.</p><p><span style=\"font-size: 1.25rem;\">Szólóban és különböző nagyságú formációkban is igénybe vehető a zeneszolgáltatás. Számos korábbi megrendelőm megelégedettségge arra ösztönöz, hogy a jövőben is törekedjem a minőségre és az igények maximális figyelembe vételére.</span></p><p><span style=\"font-size: 1.25rem;\">Forduljon hozzám, bizalommal! Sok szeretettel várom Önökek muzsikaszóval!</span></p><p>Rigó Péter</p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/apa%20szinti-700x465.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apa-szinti-700x465-696x367.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1006295_10151812604823140_1163936640_n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1006295-10151812604823140-1163936640-n-960x640-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/apa-1-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apa-1-960x640-800x491.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-b"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=4SCAjJE9h-M&feature=youtu.be",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "text": "Videó válogatás",
+          "alias": "purity/components",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/apa%20szinti-700x465.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fff8e0",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Kapcsolatfelvétel",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>Küldés</a>",
+          "form": {
+            "action": "rigo.peter01@gmail.com",
+            "alerts": {
+              "success": "Köszönöm, hogy írtál nemsokára válaszolok. "
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Név*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "23px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
