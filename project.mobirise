@@ -36,7 +36,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rp%20music%20log%C3%B3%20asd-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rp-music-log-asd-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -97,14 +97,14 @@
             "showBullets": true,
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/apa%20szinti-700x465.jpg",
+                "image": "@PROJECT_PATH@/assets/images/apa-szinti-700x465.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/apa-szinti-700x465-696x367.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1006295_10151812604823140_1163936640_n-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1006295-10151812604823140-1163936640-n-960x640.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1006295-10151812604823140-1163936640-n-960x640-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -157,7 +157,7 @@
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/apa%20szinti-700x465.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/apa-szinti-700x465.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
