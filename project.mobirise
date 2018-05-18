@@ -83,7 +83,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Rólam",
-          "caption": "<p>Rigó Péter vagyok. Több mint 20 éve muzsikálok főként a Dél-Alföldön, különböző rendezvényeken: partyk, bálak, lakodalmak, falunapok, vacsoraestek, fesztiválok, stb... alkalmával, de megfordultam már az ország számos távolabbi vidékén, és több ízben küldöldön is. A civil életben pedagógusként dolgozom 25 éve, magyar-ének-zene szakos tanárként.</p><p><span style=\"font-size: 1.25rem;\">Szólóban és különböző nagyságú formációkban is igénybe vehető a zeneszolgáltatás. Számos korábbi megrendelőm megelégedettségge arra ösztönöz, hogy a jövőben is törekedjem a minőségre és az igények maximális figyelembe vételére.</span></p><p><span style=\"font-size: 1.25rem;\">Forduljon hozzám, bizalommal! Sok szeretettel várom Önökek muzsikaszóval!</span></p><p>Rigó Péter</p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
+          "caption": "<p>Rigó Péter vagyok. Több mint 20 éve muzsikálok főként a Dél-Alföldön, különböző rendezvényeken: partyk, bálak, lakodalmak, falunapok, vacsoraestek, fesztiválok, stb... alkalmával, de megfordultam már az ország számos távolabbi vidékén, és több ízben küldöldön is. A civil életben pedagógusként dolgozom 25 éve, magyar-ének-zene szakos tanárként.</p><p><span style=\"font-size: 1.25rem;\">Szólóban és különböző nagyságú formációkban is igénybe vehető a zeneszolgáltatás. Számos korábbi megrendelőm megelégedettségge arra ösztönöz, hogy a jövőben is törekedjem a minőségre és az igények maximális figyelembe vételére.</span></p><p><span style=\"font-size: 1.25rem;\">Forduljon hozzám, bizalommal! Sok szeretettel várom Önöket muzsikaszóval!</span></p><p>Rigó Péter</p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Téma"
@@ -168,7 +168,7 @@
           "title": "Kapcsolatfelvétel",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>Küldés</a>",
           "form": {
-            "action": "rigo.peter01@gmail.com",
+            "action": "rpmusicoffical@gmail.com",
             "alerts": {
               "success": "Köszönöm, hogy írtál nemsokára válaszolok. "
             },
