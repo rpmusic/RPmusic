@@ -12,7 +12,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/rp-music-128x128.png",
     "noImageResize": "true",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png"
   },
@@ -154,23 +154,23 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/apa-szinti-700x465.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#fff8e0",
-            "overlayOpacity": "0.7"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Kapcsolatfelvétel",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>Küldés</a>",
+          "title": "Kapcsolatfelvétel<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
           "form": {
             "action": "rpmusicoffical@gmail.com",
             "alerts": {
-              "success": "Köszönöm, hogy írtál nemsokára válaszolok. "
+              "success": "Köszönöm, hogy írtál hamarosan válaszolok."
             },
             "fields": {
               "name": {
@@ -199,15 +199,7 @@
             "Téma"
           ],
           "_name": "form1",
-          "_anchor": "form1-9",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".btn": {
-              "font-size": "23px"
-            }
-          }
+          "_anchor": "form1-h"
         }
       ]
     }
