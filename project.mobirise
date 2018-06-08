@@ -36,7 +36,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rp-music-log-asd-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rp-music-log-asd.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
