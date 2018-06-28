@@ -115,6 +115,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/apa-1-960x640-800x491.jpg",
                 "alt": "",
                 "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-12-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/asddsfg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/asddsfg-800x533.jpg",
+                "alt": "",
+                "title": "",
                 "active": true
               }
             ]
